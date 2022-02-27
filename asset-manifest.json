@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-profile/static/css/main.e117b672.css",
+    "main.js": "/React-profile/static/js/main.b0afda35.js",
+    "static/js/787.f73a9e08.chunk.js": "/React-profile/static/js/787.f73a9e08.chunk.js",
+    "static/media/my.jpeg": "/React-profile/static/media/my.7c4de5305c12113f8c8a.jpeg",
+    "static/media/react.png": "/React-profile/static/media/react.73ac128ace7cbddf3d39.png",
+    "static/media/django.png": "/React-profile/static/media/django.f2aaecc806b081445e12.png",
+    "static/media/news.jpg": "/React-profile/static/media/news.07ee6987271fbdb89b76.jpg",
+    "static/media/js.png": "/React-profile/static/media/js.a694bdfaed55e14b296b.png",
+    "static/media/css.png": "/React-profile/static/media/css.30538e5ad34c744d0aeb.png",
+    "static/media/html.png": "/React-profile/static/media/html.658751a95c2e24db5787.png",
+    "static/media/Capture.PNG": "/React-profile/static/media/Capture.a4078fbd79af9096cda7.PNG",
+    "index.html": "/React-profile/index.html",
+    "main.e117b672.css.map": "/React-profile/static/css/main.e117b672.css.map",
+    "main.b0afda35.js.map": "/React-profile/static/js/main.b0afda35.js.map",
+    "787.f73a9e08.chunk.js.map": "/React-profile/static/js/787.f73a9e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e117b672.css",
+    "static/js/main.b0afda35.js"
+  ]
+}
